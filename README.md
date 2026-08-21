@@ -45,20 +45,14 @@ currently: Co-Founder @ Praxeon Solutions
 | [Text-to-SQL Chatbot](https://github.com/amnakhalid87/text_to_sql_project) | Agentic NLP-to-SQL engine with auto-visualization | FastAPI · Aiven DB |
 
 ### GitHub Stats
-<div align="center">
-<img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amnakhalid87&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amnakhalid87&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
 <div align="center">
 <img src="https://img.shields.io/github/followers/amnakhalid87?label=Followers&style=social"/>
-<img src="https://img.shields.io/github/stars/amnakhalid87?label=Stars&style=social"/>
 </div>
 
 <div align="center">
 
-*"Bending the power of Flutter with the intelligence of Machine Learning."*
-
+"Turning research papers into working systems — one RAG pipeline at a time."
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" width="100%"/>
 
 </div>
