@@ -46,11 +46,13 @@ currently: Co-Founder @ Praxeon Solutions
 
 ### GitHub Stats
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=amnakhalid87&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=amnakhalid87&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnakhalid87&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
+
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=amnakhalid87&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/github/followers/amnakhalid87?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/stars/amnakhalid87?label=Stars&style=social"/>
 </div>
 
 <div align="center">
